@@ -1,0 +1,1 @@
+Vanilla-tilt.js is a lightweight 3d tilt animation library that was orignally Tilt.js - however this original version is jQuery. Vanilla-tilt as expeccted was written in vanilla JavaScript and allows for tha pplation of a 3D tilt hover effect.
